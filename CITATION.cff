@@ -1,13 +1,29 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "enso-brazil-crops: El Niño risk to Brazilian soybean and maize harvests"
-version: 0.1.0
-date-released: 2026-10-18
+version: 1.1.0
+date-released: 2026-11-10
 license: MIT
 repository-code: https://github.com/franciscolledosantos/enso-brazil-crops
+doi: 10.5281/zenodo.23461529
 authors:
   - family-names: Lledo dos Santos
     given-names: Francisco
     orcid: https://orcid.org/0000-0002-7718-8203
-    affiliation: Universidade do Estado de Mato Grosso (UNEMAT), ProfÁgua
-# co-authors to be added
+    affiliation: Universidade do Estado de Mato Grosso (UNEMAT), ProfÁgua, Cáceres, Brazil
+  - family-names: Poleto
+    given-names: Cristiano
+    orcid: https://orcid.org/0000-0001-7376-1634
+    affiliation: Universidade Federal do Rio Grande do Sul (UFRGS), Instituto de Pesquisas Hidráulicas (IPH), Porto Alegre, Brazil
+  - family-names: Silva
+    given-names: Vinicius de Azevedo
+    orcid: https://orcid.org/0009-0009-9008-4095
+    affiliation: Universidade Estadual de Campinas (UNICAMP), Campinas, Brazil
+  - family-names: Porto
+    given-names: Alexandre Gonçalves
+    orcid: https://orcid.org/0000-0002-5966-1888
+    affiliation: Universidade do Estado de Mato Grosso (UNEMAT), Barra do Bugres, Brazil
+  - family-names: Amaral
+    given-names: Anderson Marques do
+    orcid: https://orcid.org/0009-0000-8466-8216
+    affiliation: Universidade do Estado de Mato Grosso (UNEMAT), Cáceres, Brazil

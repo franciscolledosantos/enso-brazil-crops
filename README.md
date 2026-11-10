@@ -41,3 +41,10 @@ See `CITATION.cff` (co-authors to be added). Licence: MIT.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23461529.svg)](https://doi.org/10.5281/zenodo.23461529)
 
 Version v1.0.0: https://doi.org/10.5281/zenodo.23461530
+
+## Field Crops Research version (November 2026)
+
+`scripts/fase_fenologica.py` (phenological windows, ENSO pathway, skill by predictor set, CONAB first/second-crop maize) and
+`scripts/fase_fenologica_b.py` (family-wise phase responses) read `dados_derivados/painel_uf_ano.csv` and `dados/conab/conab_*_uf_ano.csv`
+(CONAB historical series, downloaded 9 November 2026 from gov.br/conab and parsed to tidy state × harvest-year tables). Results are in
+`resultados/fcr/`; figures are made by `scripts/figuras_fcr.py`. The scripts change to the article folder root before running.
